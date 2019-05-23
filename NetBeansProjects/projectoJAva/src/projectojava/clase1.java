@@ -10,5 +10,5 @@ package projectojava;
  * @author programador
  */
 public class clase1 {
-    
+    private String hola;
 }
